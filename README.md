@@ -354,6 +354,7 @@ Components and native modules.
 * [react-native-circular-progress ★1088](https://github.com/bgryszko/react-native-circular-progress) - React Native component for creating animated, circular progress with ReactART
 * [react-native-popup-dialog ★1088](https://github.com/jacklam718/react-native-popup-dialog) - A React Native Popup Dialog Easy Use & Support Use Custom Animation. For IOS & Android
 * [react-native-largelist ★1054](https://github.com/bolan9999/react-native-largelist) - The best performance large list component for React Native (iOS & Android) 
+* [react-native-actionsheet ★1000](https://github.com/beefe/react-native-actionsheet) - An elegant ActionSheet component for React Native.
 * [react-native-offline ★977](https://github.com/rauliyohmc/react-native-offline) - Handy toolbelt to deal nicely with offline/online connectivity in a React Native app. Smooth redux integration.
 * [react-native-root-toast ★971](https://github.com/magicismight/react-native-root-toast) - React native toast like component, pure javascript solution
 * [react-native-dropdownalert ★894](https://github.com/testshallpass/react-native-dropdownalert) - A simple drop down alert with 4 pre-defined types.
