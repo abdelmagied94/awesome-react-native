@@ -304,6 +304,7 @@ Components and native modules.
 
 * [lottie-react-native ★10415](https://github.com/airbnb/lottie-react-native) - A mobile library for Android and iOS that parses Adobe After Effects animations exported as JSON with bodymovin and renders them natively on mobile!
 * [react-native-vector-icons ★9985](https://github.com/oblador/react-native-vector-icons) - Customizable Icons for React Native with support for NavBar/TabBar, image source and full styling. Choose from 3000+ bundled icons or use your own.
+* [react-content-loader ★8500](https://github.com/danilowoz/react-content-loader) - SVG-Powered component to easily create placeholder loadings.
 * [react-native-maps ★8388](https://github.com/lelandrichardson/react-native-maps) - React Native Map components for iOS + Android
 * [react-native-swiper ★6955](https://github.com/leecade/react-native-swiper) - The best Swiper component for React Native.
 * [react-native-gifted-chat ★6546](https://github.com/FaridSafi/react-native-gifted-chat) - The most complete chat UI for React Native (formerly known as Gifted Messenger)
@@ -358,6 +359,7 @@ Components and native modules.
 * [react-native-offline ★977](https://github.com/rauliyohmc/react-native-offline) - Handy toolbelt to deal nicely with offline/online connectivity in a React Native app. Smooth redux integration.
 * [react-native-root-toast ★971](https://github.com/magicismight/react-native-root-toast) - React native toast like component, pure javascript solution
 * [react-native-dropdownalert ★894](https://github.com/testshallpass/react-native-dropdownalert) - A simple drop down alert with 4 pre-defined types.
+* [react-native-flash-message ★483](https://github.com/lucasferreira/react-native-flash-message) - React Native flashbar and top notification alert utility
 * [react-native-loading-spinner-overlay ★885](https://github.com/niftylettuce/react-native-loading-spinner-overlay) - The only pure React Native, Native iOS and Android loading spinner (progress bar indicator) overlay
 * [react-native-tinder-swipe-cards ★881](https://github.com/meteor-factory/react-native-tinder-swipe-cards) - Tinder card style swiping.
 * [react-native-slider ★845](https://github.com/jeanregisser/react-native-slider) - A pure JavaScript component for react-native
@@ -865,6 +867,7 @@ Components and native modules.
 * [react-native-gifted-form ★1317](https://github.com/FaridSafi/react-native-gifted-form) - Form component for react-native
 * [react-native-clean-form ★414](https://github.com/esbenp/react-native-clean-form) - Good looking form elements with redux-form integration. Stylable with styled-components.
 * [react-native-form-generator ★354](https://github.com/MichaelCereda/react-native-form-generator) - Generate amazing React Native forms in a breeze
+* [react-native-formik ★311](https://github.com/bamlab/react-native-formik) - Set of helpers to make form awesome with React Native and Formik
 * [react-native-form ★138](https://github.com/julianocomg/react-native-form) - A simple react-native component to wrap your form fields!
 * [react-reactive-forms ★106](https://github.com/bietkul/react-reactive-form) - Angular like reactive forms in React.
 * [react-native-forms ★86](https://github.com/michaelhelvey/react-native-forms) - A declarative API for creating, validating, and serializing native-looking forms.
